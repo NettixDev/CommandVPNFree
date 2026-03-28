@@ -1,5 +1,6 @@
 # profile-title: [FREE] CommandVPN
 
+vless://b7cbcdae-2072-43a7-b318-0200653cab24@147.45.48.172:12656?type=tcp&security=none&encryption=none#🇷🇺Россия ютуб без рекламы/Russia youtube w/o ads
 vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@in-fi-hn.ray-proxy.ru:443?type=tcp&security=reality&pbk=Pjn4T455qDtydjRH5ZUASZ8nSkIXQjI9CIY55aQf-Wk&fp=chrome&sni=eh.vk.com&flow=xtls-rprx-vision&spx=%2F&encryption=none#[FREE] CommandVPN 🇳🇱 Нидерланды/Netherlands
 vless://833b8dde-82c4-416d-be5e-b6c460b9764a@2.27.42.66:47492?type=tcp&security=reality&pbk=4U19SaAA7c6T1jamWRKR4T7DFhyIzpMzzVkuj8aObUg&fp=chrome&sni=www.nvidia.com&sid=a0120013&spx=%2F&encryption=none#[FREE] CommandVPN 🇫🇮 Финляндия/Finland
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?type=tcp&security=reality&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&fp=chrome&sni=www.icloud.com&sid=90&spx=%2F&encryption=none#[FREE] CommandVPN 🇸🇪 Швеция/Sweden
