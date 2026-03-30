@@ -2,7 +2,7 @@
 
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?type=tcp&security=reality&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&fp=chrome&sni=www.icloud.com&sid=90&spx=%2F&encryption=none#[FREE] CommandVPN 🇸🇪 Швеция/Sweden
 vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@us.maxonelove.com:8444?type=tcp&security=reality&pbk=0avHPgwKcQEgcKbhMAoO6NR8vj90Gw2NGzWqg37cMkQ&fp=edge&sni=us.maxonelove.com&sid=63cac0be40563df9&flow=xtls-rprx-vision#[FREE] CommandVPN 🇺🇸 США/USA
-vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@lt.maxonelove.com:8444?type=tcp&security=reality&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=qq&sni=lt.maxonelove.com&sid=28a059440d3d5ba1&flow=xtls-rprx-vision#%[FREE] CommandVPN 🇱🇻 Латвия/Latvia
+vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@lt.maxonelove.com:8444?type=tcp&security=reality&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=qq&sni=lt.maxonelove.com&sid=28a059440d3d5ba1&flow=xtls-rprx-vision#[FREE] CommandVPN 🇱🇻 Латвия/Latvia
 vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@4g1v7xuz8n.vk-maps.net:52006?type=tcp&security=reality&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=location.vk-maps.net&sid=96962fed&flow=xtls-rprx-vision#[FREE] CommandVPN 🇩🇪 Германия/Germany
 vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@37.139.41.181:443?type=tcp&security=reality&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&fp=qq&sni=max.ru&sid=28a059440d3d5ba1&flow=xtls-rprx-vision#[FREE] CommandVPN 🇷🇺 LTE TEST #1
 vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@84.201.181.82:443?type=tcp&security=reality&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&fp=chrome&sni=ads.x5.ru&sid=c05d4c564d2bcd&flow=xtls-rprx-vision#[FREE] CommandVPN 🇷🇺 LTE TEST #2
