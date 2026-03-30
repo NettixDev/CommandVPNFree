@@ -1,9 +1,7 @@
 # profile-title: [FREE] CommandVPN
 
-vless://b7cbcdae-2072-43a7-b318-0200653cab24@147.45.48.172:12656?type=tcp&security=none&encryption=none#[FREE] CommandVPN 🇷🇺Россия Ютуб/Russia YouTube
-vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@in-fi-hn.ray-proxy.ru:443?type=tcp&security=reality&pbk=Pjn4T455qDtydjRH5ZUASZ8nSkIXQjI9CIY55aQf-Wk&fp=chrome&sni=eh.vk.com&flow=xtls-rprx-vision&spx=%2F&encryption=none#[FREE] CommandVPN 🇳🇱 Нидерланды/Netherlands
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?type=tcp&security=reality&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&fp=chrome&sni=www.icloud.com&sid=90&spx=%2F&encryption=none#[FREE] CommandVPN 🇸🇪 Швеция/Sweden
-vless://4dde0df3-aa67-417c-882e-28beb3886961@usa.pinkweb.one:443?type=tcp&security=reality&pbk=1KcbQU2qtusi8zaFc0sTu_kjwNkBO1SDBGZ6G95ZuDo&fp=chrome&sni=usa.pinkweb.one&flow=xtls-rprx-vision&sid=2a4b439db2a0dacf&spx=%2F&encryption=none#[FREE] CommandVPN 🇺🇸 США/USA
-vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@fin.maxonelove.com:52006?type=ws&security=tls&path=%2Fpleasework&host=fin.maxonelove.com&sni=fin.maxonelove.com&fp=qq&encryption=none#[FREE] CommandVPN 🇫🇮Финляндия/Finland
-vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@nl.maxonelove.com:443?type=tcp&security=reality&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&fp=ios&sni=yt-02-node.maxonelove.com&sid=08&flow=xtls-rprx-vision#[FREE] CommandVPN 🇳🇱Нидерланды Ютуб/Netherlands YouTube
-vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@84.201.181.82:443?type=tcp&security=reality&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&fp=chrome&sni=ads.x5.ru&sid=c05d4c564d2bcd&flow=xtls-rprx-vision#[FREE] CommandVPN 🇷🇺LTE TEST
+vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@us.maxonelove.com:8444?type=tcp&security=reality&pbk=0avHPgwKcQEgcKbhMAoO6NR8vj90Gw2NGzWqg37cMkQ&fp=edge&sni=us.maxonelove.com&sid=63cac0be40563df9&flow=xtls-rprx-vision#[FREE] CommandVPN 🇺🇸 США/USA
+vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@lt.maxonelove.com:8444?type=tcp&security=reality&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=qq&sni=lt.maxonelove.com&sid=28a059440d3d5ba1&flow=xtls-rprx-vision#%[FREE] CommandVPN 🇱🇻 Латвия/Latvia
+vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@4g1v7xuz8n.vk-maps.net:52006?type=tcp&security=reality&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=location.vk-maps.net&sid=96962fed&flow=xtls-rprx-vision#[FREE] CommandVPN 🇩🇪 Германия/Germany
+vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@37.139.41.181:443?type=tcp&security=reality&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&fp=qq&sni=max.ru&sid=28a059440d3d5ba1&flow=xtls-rprx-vision#[FREE] CommandVPN 🇷🇺 LTE TEST
