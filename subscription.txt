@@ -1,6 +1,4 @@
 # profile-title: [FREE] CommandVPN
 
-vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@us.maxonelove.com:8444?type=tcp&security=reality&pbk=0avHPgwKcQEgcKbhMAoO6NR8vj90Gw2NGzWqg37cMkQ&fp=edge&sni=us.maxonelove.com&sid=63cac0be40563df9&flow=xtls-rprx-vision#[FREE] CommandVPN 🇺🇸 США/USA
-vless://48c3b065-d6a8-43f5-a73f-cb59aa446ec9@4g1v7xuz8n.vk-maps.net:52006?type=tcp&security=reality&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=location.vk-maps.net&sid=96962fed&flow=xtls-rprx-vision#[FREE] CommandVPN 🇩🇪 Германия/Germany
-vless://4f0b281e-8a49-4a2d-9e54-3abe1c9b9d1f@146.185.208.123:4443?security=reality&encryption=none&pbk=I4RNTYDqaq4zPgrxcZkXKQN5fGCAAXTw34PWHoHBUXk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=952062#[FREE] CommandVPN 🇬🇧 United Kingdom TEST
-vless://9b691795-7bbd-45a8-bca1-10684c064e60@79.174.93.162:2083?security=reality&encryption=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=6da16b1335651b38#[FREE] CommandVPN 🇷🇺 LTE TEST
+vless://a01881a8-3d9b-48bb-9a9c-e96e8b40b2c6@87.239.104.4:8444?security=reality&encryption=none&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=5e6f7a8b#[FREE] CommandVPN 🇸🇪 Sweden TEST
+vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#[FREE] CommandVPN 🇷🇺 Russia TEST
